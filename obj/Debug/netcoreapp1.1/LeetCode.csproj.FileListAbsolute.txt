@@ -1,0 +1,16 @@
+c:\Users\fteng\Box Sync\FTENG\Desktop\LeetCode\bin\Debug\netcoreapp1.1\LeetCode.deps.json
+c:\Users\fteng\Box Sync\FTENG\Desktop\LeetCode\bin\Debug\netcoreapp1.1\LeetCode.runtimeconfig.json
+c:\Users\fteng\Box Sync\FTENG\Desktop\LeetCode\bin\Debug\netcoreapp1.1\LeetCode.runtimeconfig.dev.json
+c:\Users\fteng\Box Sync\FTENG\Desktop\LeetCode\bin\Debug\netcoreapp1.1\LeetCode.dll
+c:\Users\fteng\Box Sync\FTENG\Desktop\LeetCode\bin\Debug\netcoreapp1.1\LeetCode.pdb
+c:\Users\fteng\Box Sync\FTENG\Desktop\LeetCode\obj\Debug\netcoreapp1.1\LeetCode.AssemblyInfo.cs
+c:\Users\fteng\Box Sync\FTENG\Desktop\LeetCode\obj\Debug\netcoreapp1.1\LeetCode.dll
+c:\Users\fteng\Box Sync\FTENG\Desktop\LeetCode\obj\Debug\netcoreapp1.1\LeetCode.pdb
+c:\code\leetcode\bin\Debug\netcoreapp1.1\LeetCode.deps.json
+c:\code\leetcode\bin\Debug\netcoreapp1.1\LeetCode.runtimeconfig.json
+c:\code\leetcode\bin\Debug\netcoreapp1.1\LeetCode.runtimeconfig.dev.json
+c:\code\leetcode\bin\Debug\netcoreapp1.1\LeetCode.dll
+c:\code\leetcode\bin\Debug\netcoreapp1.1\LeetCode.pdb
+c:\code\leetcode\obj\Debug\netcoreapp1.1\LeetCode.AssemblyInfo.cs
+c:\code\leetcode\obj\Debug\netcoreapp1.1\LeetCode.dll
+c:\code\leetcode\obj\Debug\netcoreapp1.1\LeetCode.pdb
