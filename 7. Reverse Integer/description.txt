@@ -1,0 +1,18 @@
+Reverse digits of an integer.
+
+Example1: x = 123, return 321
+Example2: x = -123, return -321
+
+
+Note:
+The input is assumed to be a 32-bit signed integer. 
+Your function should return 0 when the reversed integer overflows.
+
+
+Hint
+
+int
+The 32-bit int data type can hold integer values in the range of −2,147,483,648 to 2,147,483,647
+
+unsigned int
+The 32-bit unsigned int data type can hold integer values in the range of 0 to 4,294,967,295. 
